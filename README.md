@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kimsong1000
+- 👋 Hi, I’m @Ken
 - 👀 I’m interested in gaming and coding.
-- 🌱 I’m currently learning c language.
+- 🌱 I’m currently graduating student from ABAC university.
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me email: kimsongtang1000@gmail.com
 
